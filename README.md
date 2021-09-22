@@ -1,17 +1,9 @@
-# Sample Custom Package
-This repo contains the codebase for the Sample Custom Package project
+# \<Custom Package Name\>
+\<Description of package\>
 
 ### Requisites
 
-* [Unity](www.unity3d.com) 2019.3.6f1
-
-### Run
-
-* 
-
-### Team
-
-* Muhammad Salihin Bin Zaol-kefli: salsatsat@gmail.com
+* [Unity](www.unity3d.com) \<version\>
 
 ### Documentation
 The user guide can be found [here](Documentation/UserGuide.md)
